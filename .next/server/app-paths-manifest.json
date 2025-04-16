@@ -1,0 +1,6 @@
+{
+  "/simulation/page": "app/simulation/page.js",
+  "/analysis/page": "app/analysis/page.js",
+  "/visualization/page": "app/visualization/page.js",
+  "/settings/page": "app/settings/page.js"
+}
