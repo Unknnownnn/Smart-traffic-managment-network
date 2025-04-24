@@ -40,11 +40,11 @@ An interactive simulation of a traffic light network with adaptive timing and fa
 
 ## Project Structure
 
-- `/app` - Next.js app router components
-- `/components` - React components
-- `/lib` - Core logic for traffic light nodes and server
-- `/styles` - Global styles and theme configuration
-- `/public` - Static assets
+- `/app` - Next.js app router components.
+- `/components` - React components.
+- `/lib` - Core logic for traffic light nodes and server.
+- `/styles` - Global styles and theme configuration.
+- `/public` - Static assets.
 
 ## Technologies Used
 
